@@ -1,11 +1,11 @@
 # python-learn
 
 ## Prerare
--Install Sublime text 3 - https://www.sublimetext.com/3
--Install git - https://git-scm.com/downloads
--register github.com
--Install Python 3 - https://www.python.org/downloads/
--Open cmd and type
+- Install Sublime text 3 - https://www.sublimetext.com/3
+- Install git - https://git-scm.com/downloads
+- register github.com
+- Install Python 3 - https://www.python.org/downloads/
+- Open cmd and type
 
 `
 cd c:\
