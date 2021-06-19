@@ -1,6 +1,6 @@
 # python-learn
 
-## Prerare
+## Prepare
 - Install Sublime text 3 - https://www.sublimetext.com/3
 - Install git - https://git-scm.com/downloads
 - register github.com
