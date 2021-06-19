@@ -18,7 +18,7 @@ subl .
 ```
 
 
-Open Issues tab
+- Open Issues tab
 
 ## Tasks
 
