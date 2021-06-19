@@ -7,7 +7,7 @@
 - Install Python 3 - https://www.python.org/downloads/
 - Open cmd and type
 
-`
+```
 cd c:\
 mkdir python-apps
 cd python-apps
@@ -15,7 +15,7 @@ git clone https://github.com/riffca/python-learn.git
 cd python-learn 
 subl .
 
-`
+```
 
 
 Open Issues tab
