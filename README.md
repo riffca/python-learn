@@ -1,8 +1,18 @@
 # python-learn
 
 ## Prerare
+Install git - https://git-scm.com/downloads
+register github.com
+Install Python 3 - https://www.python.org/downloads/
+Open cmd and type
 
-(Install Python 3)[https://www.python.org/downloads/]
+`
+cd c:\
+mkdir python-apps
+cd python-apps
+git clone
+
+`
 
 
 Open Issues tab
