@@ -1,7 +1,7 @@
 # python-learn
 
 ## Prepare
-- Install Sublime text 3 - https://www.sublimetext.com/3
+- Install Sublime text 4 - https://www.sublimetext.com/download
 - Install git - https://git-scm.com/downloads
 - register github.com
 - Install Python 3 - https://www.python.org/downloads/
